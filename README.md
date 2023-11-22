@@ -1,5 +1,6 @@
 # Pokedex
-
+[![pokedex01.png](https://i.postimg.cc/XJd71sMf/pokedex01.png)](https://postimg.cc/G83CHJmt)
+[![pokedex02.png](https://i.postimg.cc/XNKYw1k3/pokedex02.png)](https://postimg.cc/Wt3VVnyf)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
 ## Development server
